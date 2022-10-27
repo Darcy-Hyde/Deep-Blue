@@ -1,0 +1,7 @@
+dato = int(input("Coloca un valor: "))
+residuo = dato % 2
+if residuo == 0:
+ print("Su valor es par")
+ 
+else:
+ print("Su valor no es par"
